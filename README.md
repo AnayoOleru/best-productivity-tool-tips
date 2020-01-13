@@ -35,13 +35,8 @@ A web-based **bug tracking system**, used is to track software defects and repor
 The Silver Searcher is a code-searching tool, one that stands out due to its speed. Also known as Ag, for short, it’s similar in features to the more famous Ack, but it is about 34x faster than Ack in displaying results. Ag ignores files you indicate, meaning it reports more specific matches, which saves you time even more
 
 **Technology Platform**
-| Operating System |
-| ------------- |
-| Windows |
-| [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
 
-
-| First Header  | Second Header |
+| Operating System | ` |
 | ------------- | ------------- |
 | Windows | [Unix-like](https://en.wikipedia.org/wiki/Unix-like) |
 
