@@ -22,6 +22,7 @@ The ability to focus while coding is incredibly important for developers to help
 ## Table of Contents for a Team
 <!-- at least 20 -->
 - [Project-Management](#project-management)
+- [Collaboration](#collaboration)
 
 
 
@@ -30,19 +31,42 @@ The ability to focus while coding is incredibly important for developers to help
 ## Bug-Tracker
 
 - [MantisBT](https://www.mantishub.com/)
-A web-based bug tracking system, used is to track software defects and report them.
+A web-based **bug tracking system**, used is to track software defects and report them. 
+The Silver Searcher is a code-searching tool, one that stands out due to its speed. Also known as Ag, for short, it’s similar in features to the more famous Ack, but it is about 34x faster than Ack in displaying results. Ag ignores files you indicate, meaning it reports more specific matches, which saves you time even more
 
-platforms
+**Technology Platform**
+| Operating System |
+| ------------- |
+| Windows |
+| [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
+
 
 
 ## Control-System
 
 - [Git](https://github.com/)
-A source code management tool, but also a control system meant to track changes in your computer files.
+A source code management tool, but also a control system meant to track changes in your computer files. The Git feature that stands out the most is its branching model; you can use multiple branches for your ideas, test them, and easily backtrack if they don’t work
+
+**Technology Platform**
+| Operating System |
+| ------------- |
+| Web |
+| Windows |
+| Mac OS |
+| [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
 
 ## Computer-display
 - [F.lux](https://justgetflux.com/)
  Is a computer-display control tool, that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+
+ **Technology Platform**
+| Operating System |
+| ------------- |
+| Windows |
+| Mac OS |
+| Linux  |
+| iPhone/iPad  |
+| Android  |
 
 ## Code-Reading
 - [The Silver Searcher](https://geoff.greer.fm/ag/)
