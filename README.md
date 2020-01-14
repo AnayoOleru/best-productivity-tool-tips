@@ -6,6 +6,7 @@ The ability to focus while coding is incredibly important for developers to help
 <!-- at least 20 {tomorrow}-->
 <!-- platforms -->
 <!-- add more description -->
+<!-- add experiences -->
 - [Bug-Tracker](#bug-Tracker)
 - [Control-System](#control-System)
 - [Computer-display](#apex)
@@ -36,9 +37,9 @@ The Silver Searcher is a code-searching tool, one that stands out due to its spe
 
 **Technology Platform**
 
-| Operating System | ` |
-| ------------- | ------------- |
 | Windows | [Unix-like](https://en.wikipedia.org/wiki/Unix-like) |
+
+- [Developer Experiences](#EXPERIENCES.md)
 
 
 ### Control-System
@@ -47,9 +48,12 @@ The Silver Searcher is a code-searching tool, one that stands out due to its spe
 A source code management tool, but also a control system meant to track changes in your computer files. The Git feature that stands out the most is its branching model; you can use multiple branches for your ideas, test them, and easily backtrack if they don’t work
 
 **Technology Platform**
- 
-| Web | Windows |
-| Mac OS | [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
+
+| Web | Windows | Mac OS | [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
+
+- [Developer Experiences](#EXPERIENCES.md)
+
+
 
 ### Computer-display
 - [F.lux](https://justgetflux.com/)
@@ -57,21 +61,18 @@ A source code management tool, but also a control system meant to track changes 
 
  **Technology Platform**
 
-| Windows | Mac OS |
-| Linux  | iPhone/iPad  |
-| Android  | ` |
+| Windows | Mac OS | Linux  | iPhone/iPad  | Android  |
 
-## Code-Reading
+### Code-Reading
 - [The Silver Searcher](https://geoff.greer.fm/ag/)
 The Silver Searcher is code searching tool for searching code, help save significant amount of time, due to it's speed.
 
-## Code-Editor
+### Code-Editor
 - [Sublime-Text](https://www.sublimetext.com/)
 A good code editor equals high productivity. Sublime is fast in execution, but simple in interface. I offers a distraction free mode. This mode shows your editor full screen, with all UI chrome features hidden.
 
-- [VsCode]()
 
-## IDE
+### IDE
 - [Intellij IDEA](https://www.jetbrains.com/idea/)
 Intellij IDEA is a Java IDE that offers a number of functionalities meant to assist you in coding across various frameworks and languages. With this Java IDE, you can use of use of its keyboard shortcuts to navigate across items, you can build tools, decompile,  run queries, run tests, manage schemes and much more.
 
