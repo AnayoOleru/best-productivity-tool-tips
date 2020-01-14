@@ -1,4 +1,4 @@
-# Productivity Tips and Tools
+# Productivity Tool-tips
 
 The ability to focus while coding is incredibly important for developers to help maintain their levels high. To help with that, here are a list of productivity tips, and their tools for programmers to try out.
 
@@ -8,6 +8,7 @@ The ability to focus while coding is incredibly important for developers to help
 <!-- add more description -->
 <!-- add experiences -->
 <!-- change name to Productivity tips and tools so as none programmers can use it too -->
+<!-- Clean github and start sharing -->
 - [Bug-Tracker](#bug-Tracker)
 - [Control-System](#control-System)
 - [Computer-display](#apex)
