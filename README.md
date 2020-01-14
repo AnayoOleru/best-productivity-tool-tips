@@ -3,7 +3,7 @@
 The ability to focus while coding is incredibly important for developers to help maintain their levels high. To help with that, here are a list of productivity tips, and their tools for programmers to try out.
 
 ## Table of Contents for Individual
-<!-- at least 20 -->
+<!-- at least 20 {tomorrow}-->
 <!-- platforms -->
 <!-- add more description -->
 - [Bug-Tracker](#bug-Tracker)
@@ -28,7 +28,7 @@ The ability to focus while coding is incredibly important for developers to help
 
 ## Contents for an individual developer
 
-## Bug-Tracker
+### Bug-Tracker
 
 - [MantisBT](https://www.mantishub.com/)
 A web-based **bug tracking system**, used is to track software defects and report them. 
@@ -41,32 +41,27 @@ The Silver Searcher is a code-searching tool, one that stands out due to its spe
 | Windows | [Unix-like](https://en.wikipedia.org/wiki/Unix-like) |
 
 
-
-## Control-System
+### Control-System
 
 - [Git](https://github.com/)
 A source code management tool, but also a control system meant to track changes in your computer files. The Git feature that stands out the most is its branching model; you can use multiple branches for your ideas, test them, and easily backtrack if they don’t work
 
 **Technology Platform**
-| Operating System |
-| ------------- |
-| Web |
-| Windows |
-| Mac OS |
-| [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
+| Operating System | ` |
+| ------------- | ------------- | 
+| Web | Windows |
+| Mac OS | [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
 
-## Computer-display
+### Computer-display
 - [F.lux](https://justgetflux.com/)
- Is a computer-display control tool, that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+ Is a computer-display control tool, that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. F.lux is also a cross-platform that adjusts the color temperature of your display, to help your eyes rest, and ensure you can work on your programming tasks in a quality way, longe
 
  **Technology Platform**
-| Operating System |
-| ------------- |
-| Windows |
-| Mac OS |
-| Linux  |
-| iPhone/iPad  |
-| Android  |
+| Operating System | ` |
+| ------------- | ------------- |
+| Windows | Mac OS |
+| Linux  | iPhone/iPad  |
+| Android  | ` |
 
 ## Code-Reading
 - [The Silver Searcher](https://geoff.greer.fm/ag/)
