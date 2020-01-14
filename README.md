@@ -47,8 +47,7 @@ The Silver Searcher is a code-searching tool, one that stands out due to its spe
 A source code management tool, but also a control system meant to track changes in your computer files. The Git feature that stands out the most is its branching model; you can use multiple branches for your ideas, test them, and easily backtrack if they don’t work
 
 **Technology Platform**
-| Operating System | ` |
-| ------------- | ------------- | 
+ 
 | Web | Windows |
 | Mac OS | [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
 
@@ -57,8 +56,7 @@ A source code management tool, but also a control system meant to track changes 
  Is a computer-display control tool, that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. F.lux is also a cross-platform that adjusts the color temperature of your display, to help your eyes rest, and ensure you can work on your programming tasks in a quality way, longe
 
  **Technology Platform**
-| Operating System | ` |
-| ------------- | ------------- |
+
 | Windows | Mac OS |
 | Linux  | iPhone/iPad  |
 | Android  | ` |
