@@ -19,6 +19,7 @@ A lot of people struggle to be productive, because they're easily and often dist
 5. You can detail the tips or description as much as possible.
 6. Include the technological platform and link to your experience or if no experience, a way for others to add their experience about  the tool you contributed, 
 4. When creating a new topic not tool/tip, please make sure to link the topic on the table of content to the topic on the content.
+5. Add yourself and avatar as part of the contributors in the [Readme.md](/README.md) file.
 
 ### Example
 
@@ -37,10 +38,12 @@ Table of content
 **Updating an old tool tip**
 1. Feel free to contribute - make your changes and submit a PR.
 2. Follow the guidelines on *contributing a new tool*
+3. Add yourself and avatar as part of the contributors in the [Readme.md](/README.md) file.
 
 **Adding your experience**
 1. Feel free to contribute - make your changes and submit a PR.
 2. Thank you for wanting to add your experience. If adding a new experience, follow the *experiences* link on the tool.
 3. Add your own experience, your name, and company(both not compulsory).
+4. Add yourself and avatar as part of the contributors in the [Readme.md](/README.md) file.
 
 **Happy Contributing!!** :fire:
