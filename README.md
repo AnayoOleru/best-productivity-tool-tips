@@ -1,19 +1,13 @@
-# Productivity Tool-tips
+# Best Productivity Tool-tips
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 The ability to focus while coding is incredibly important for developers to help maintain their levels high. To help with that, here are a list of productivity tips, and their tools for programmers to try out.
 
 ## Table of Contents for Solo
-<!-- at least 20 {tomorrow}-->
-<!-- platforms -->
-<!-- add more description -->
-<!-- add experiences -->
-<!-- change name to Productivity tips and tools so as none programmers can use it too -->
-<!-- Clean github and start sharing -->
 - [Bug-Tracker](#bug-Tracker)
 - [Control-System](#control-System)
-- [Computer-display](#apex)
+- [Computer-display](#computer-display)
 - [Code-Reading](#code-reading)
 - [Code-Editor](#code-editor)
 - [IDE](#ide)
@@ -27,8 +21,7 @@ The ability to focus while coding is incredibly important for developers to help
 
 
 ## Table of Contents for a Team
-<!-- at least 20 -->
-- [Collaboration-and-consultation](#collaboration)
+- [Collaboration-and-consultation](#collaboration-and-consultation)
 - [Project-Management](#project-management)
 - [Project-Planning](#project-planning)
 - [Project-Manager](#project-manager)
@@ -222,42 +215,45 @@ Google Alerts is perfect for people who want always to be up-to-date with their 
 - [FocusMate](https://www.focusmate.com/)
  Procrastinating during the time periods when you should be coding. Focus mate is a co-working virtual community, where you get assigned with a partner who makes sure you focus on your tasks. You can disclose your task for the day to your assigned partner. You can then work quietly, and hold each other accountable that you do stay focused on your tasks.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 ### Todo-List
 
 - [Habitica](https://habitica.com/static/home)
 Habitica is an online todo-list or task management that helps you create to-do lists and help you track the progress with your daily coding tasks. This app actually treats your daily workload as an RPG game where you can level up by completing your tasks. As you make progress with your work, you also find pets, collect coins and equipment, so there is a reward system to help motivate you to keep pushing forward.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | Android | IOS
-
-[Developer Experiences](/EXPERIENCES.md)
 
 
 - [Todo.txt](http://todotxt.org/)
 Todo.txt is a simple open source to-do tool where you can add tasks, view them, and mark as done when finished. It’s low-key and fast, and lets you manage your tasks from the command line or from Todo.txt app. This productivity tool doesn’t offer many options when it comes to check-boxes, reminders, date pickers, or drop-downs – but that’s its core asset. You’ll get to enjoy a minimal approach to handling to-do items, one that allows you to handle your tasks in a couple of clicks and keystrokes. In gist, you’ll be able to follow your tasks from creation to completion, highlight priorities, as well as handle projects, and incorporate them in the right context.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 
 - [Google-Calendar](https://calendar.google.com)
 Lauded for its design and simplicity, Google Calendar is one of the best tools to keep your personal and professional lives organized, where you can drag and drop, when an event, such as a meeting, has to be moved to another date. You can use voice technology instead of typing, color-code each of your calendars, add reminders, use when offline, setting up recurring events and a lot more.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | Android | IOS |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 
 ### Time-Tracker
@@ -265,41 +261,42 @@ Lauded for its design and simplicity, Google Calendar is one of the best tools t
 - [Clockify](https://clockify.me/)
 Clockify is primarily a work hours tracker that helps you track time you spend on projects, get data that shows how productive you are (weekly, monthly or yearly), as well as calculate billable hours and payroll. You can also add time manually and fill time-sheet at the end of the day  so you know how much time you’ve spent on each project. Later, you analyze how much time you’ve spent on each project in reports. To make work more interesting (and more likely to hold your focus), Clockify can also help you gamify the process of coding. Just set estimates for each task, track time for them, and try to beat the estimated time in a race against the clock.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
-
-[Developer Experiences](/EXPERIENCES.md)
 
 
 - [LeechBlock NG](https://www.proginosko.com/leechblock/)
 LeechBlock lets you block Social Media websites, or any other time-consuming websites that distract you from your coding. You’ll be able to create up to 6 lists of blocked websites, with specifications on when you’ll want them blocked, and for how long.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | FireFox Browser extension | Chrome browser extension |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 
 - [RescueTime](https://www.rescuetime.com/)
 RescueTime is more for tracking personal productivity. It’s an automatic time tracker that measures how much time you spend on various software and websites. You just install it on your computer, and each time you switch from one website or software to another, it automatically starts recording the time you spend on it. This app lets you set an alarm that goes off after you’ve spent your limit for the day on a certain website. For example, you can set it so that it warns you when you’ve already spent 2 hours on Instagram.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Windows | macOS | Linux | Android | IOS | Chrome Plugin | Firefox Plugin
-
-[Developer Experiences](/EXPERIENCES.md)
 
 
 - [WakaTime](https://wakatime.com/)
 WakaTime automatically tracks the time you spend programming. Just focus on a code, and the program will track and record your start and stop times. The program provides you with metrics on the time you spend on a particular file, operating system, branch, and language. The Leaderboard option offers you a chance to compete with your programmer colleagues. Once you all enter the same Leaderboard, you’ll be able to compare your coding time results and see who has the highest score in terms of hours you’ve spent coding so far, daily average, languages you’ve coded in.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Android Studio | AppCode | Aptana | Atom | Blender | Brackets | Chrome | CLion | Cloud9 | Coda | CodeTasty | Sublime | VsCode | Xcode | PhpStorm
-
-[Developer Experiences](/EXPERIENCES.md)
 
 
 
@@ -310,32 +307,34 @@ WakaTime automatically tracks the time you spend programming. Just focus on a co
 - [Google-Drive](https://www.google.com/-drive)
 Google Drive makes team collaboration and consultations regarding a project easier and faster. With it, you can create documents, edit, and share them with your team members. This tool is perfect for collaborative projects, because all team members can work in the same documents at the same time, from their devices. You get 15GB free for all the images, videos and texts you want to store and share, but you can also upgrade to a larger plan.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | IOS | Android |
-
-[Developer Experiences](/EXPERIENCES.md)
 
 
 - [Google-Calendar](https://calendar.google.com)
 Google Calendar is a simple online calendar that helps you create and maintain a weekly schedule in just a few clicks. You can create schedules for yourself, or with your team. Lauded for its design and simplicity, Google Calendar is one of the best tools to keep your personal and professional lives organized, where you can drag and drop, when an event, such as a meeting, has to be moved to another date. You can use voice technology instead of typing, color-code each of your calendars, add reminders, use when offline, setting up recurring events and a lot more.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | Android | IOS |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 - [CodeAnyWhere](https://codeanywhere.com/)
 Developing software in a team, you’ll need a straightforward collaboration program, so you can work on various parts of the code simultaneously. Codeanywhere let’s you do just that, as it is a code editor that allows developers to code together in real-time, and finish more in less time.
 
 With this code editor, you can work directly in your browser. Just invite your collaborators, by sending them an URL link of the project; you can determine the level of permissions for each team member, and invite as many programmers as you want.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | IOS | Android |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 ### Project-Management
 
@@ -343,30 +342,31 @@ With this code editor, you can work directly in your browser. Just invite your c
 This tool works on the concept of boards; each board is a project, and in it, you can add cards that represent tasks.
 Then, you can add people to these tasks and track your progress; you can create to-do lists, indicate what tasks you’re currently working on, and move them to the “done” column when finished.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 - [ProofHub](https://www.proofhub.com/)
 ProofHub is a cloud based project management and collaboration tool designed to help you plan, collaborate, organize and deliver projects on time. ProofHub takes the pain out of project management with its simple interface and amazing features.
+
+[Developer Experiences](/EXPERIENCES.md)
 
   **Technology Platform**
 
 | Web | Android | IOS |
 
-[Developer Experiences](/EXPERIENCES.md)
 
 - [Asana](https://asana.com/)
 It's a team productivity tool, helping everyone stay on-task and organized. Not all that useful for solo workers, but if you’re on a team, Asana will help you keep all projects and tasks in one spot, assigning various users different jobs.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
-
-[Developer Experiences](/EXPERIENCES.md)
-
 
 
 ### Project-Planning
@@ -393,3 +393,96 @@ Slack replaces email inside your company enable you to easily communicate with a
 | Web | IOS | Android |
 
 
+## CONTRIBUTING
+
+If you've ever wanted to contribute to open source, and a great cause, now is your chance!
+
+See the [contributing docs](/CONTRIBUTING.md) for more information
+
+
+## CREDITS
+
+## Contributors :sparkles:
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove this section, follow the format and add your name and photo -->
+<table>
+  <tr>
+    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3" width="100px;" alt=""/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4" width="100px;" alt=""/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/tbenning"><img src="https://avatars2.githubusercontent.com/u/7265547?v=4" width="100px;" alt=""/><br /><sub><b>tbenning</b></sub></a><br /><a href="#design-tbenning" title="Design">🎨</a> <a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://sinchang.me"><img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt=""/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="#maintenance-sinchang" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://maxcubing.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="100px;" alt=""/><br /><sub><b>Maximilian Berkmann</b></sub></a><br /><a href="#translation-Berkmann18" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=Berkmann18" title="Documentation">📖</a> <a href="#maintenance-Berkmann18" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://matheu.srv.br"><img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Rocha Vieira</b></sub></a><br /><a href="#translation-MatheusRV" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Code">💻</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://robertlluberes.com"><img src="https://avatars1.githubusercontent.com/u/13991439?v=4" width="100px;" alt=""/><br /><sub><b>Robert Lluberes</b></sub></a><br /><a href="#translation-robertlluberes" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://jongjineee.github.io"><img src="https://avatars2.githubusercontent.com/u/26620470?v=4" width="100px;" alt=""/><br /><sub><b>이종진</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jongjineee" title="Documentation">📖</a> <a href="#translation-Jongjineee" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://marsx.vip"><img src="https://avatars2.githubusercontent.com/u/21303543?v=4" width="100px;" alt=""/><br /><sub><b>Wenqing Xue</b></sub></a><br /><a href="#translation-MarsXue" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://bogas04.github.io"><img src="https://avatars.githubusercontent.com/u/6177621?v=3" width="100px;" alt=""/><br /><sub><b>Divjot Singh</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=bogas04" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Abogas04" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://beneb.info"><img src="https://avatars.githubusercontent.com/u/1282980?v=3" width="100px;" alt=""/><br /><sub><b>Ben Briggs</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ben-eb" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Aben-eb" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Jameskmonger"><img src="https://avatars.githubusercontent.com/u/2037007?v=3" width="100px;" alt=""/><br /><sub><b>James Monger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jameskmonger" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/chrissimpkins"><img src="https://avatars.githubusercontent.com/u/4249591?v=3" width="100px;" alt=""/><br /><sub><b>Chris Simpkins</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=chrissimpkins" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Achrissimpkins" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3" width="100px;" alt=""/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/frigginglorious"><img src="https://avatars.githubusercontent.com/u/3982200?v=3" width="100px;" alt=""/><br /><sub><b>Daniel Kraft</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=frigginglorious" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mbad0la"><img src="https://avatars.githubusercontent.com/u/8503331?v=3" width="100px;" alt=""/><br /><sub><b>Mayank Badola</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mbad0la" title="Documentation">📖</a> <a href="#tool-mbad0la" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://www.marcobiedermann.com"><img src="https://avatars.githubusercontent.com/u/5244986?v=3" width="100px;" alt=""/><br /><sub><b>Marco Biedermann</b></sub></a><br /><a href="#design-marcobiedermann" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/itaisteinherz"><img src="https://avatars.githubusercontent.com/u/22768990?v=3" width="100px;" alt=""/><br /><sub><b>Itai Steinherz</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=itaisteinherz" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://nodescription.net"><img src="https://avatars1.githubusercontent.com/u/305339?v=3" width="100px;" alt=""/><br /><sub><b>Patrick Connolly</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=patcon" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://nikolalsvk.github.io/"><img src="https://avatars2.githubusercontent.com/u/3028124?v=4" width="100px;" alt=""/><br /><sub><b>Nikola Đuza</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=nikolalsvk" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dem.be"><img src="https://avatars2.githubusercontent.com/u/5346497?v=4" width="100px;" alt=""/><br /><sub><b>Demian Dekoninck</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=DemianD" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mpeyper"><img src="https://avatars0.githubusercontent.com/u/23029903?v=4" width="100px;" alt=""/><br /><sub><b>Michael Peyper</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mpeyper" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/The24thDS"><img src="https://avatars0.githubusercontent.com/u/26633429?v=4" width="100px;" alt=""/><br /><sub><b>David Sima</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=The24thDS" title="Documentation">📖</a> <a href="#translation-The24thDS" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/all-contributors/all-contributors-bot"><img src="https://avatars3.githubusercontent.com/u/46843839?v=4" width="100px;" alt=""/><br /><sub><b>allcontributors[bot]</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=allcontributors" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/apps/greenkeeper"><img src="https://avatars3.githubusercontent.com/in/505?v=4" width="100px;" alt=""/><br /><sub><b>Greenkeeper[bot]</b></sub></a><br /><a href="#infra-Greenkeeper[bot]" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/maryampaz"><img src="https://avatars1.githubusercontent.com/u/30090413?v=4" width="100px;" alt=""/><br /><sub><b>Maryam Pazirandeh</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=maryampaz" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/CassVenere"><img src="https://avatars1.githubusercontent.com/u/47280556?v=4" width="100px;" alt=""/><br /><sub><b>Cassandra Venere</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=CassVenere" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.codimiracle.com"><img src="https://avatars2.githubusercontent.com/u/21952540?v=4" width="100px;" alt=""/><br /><sub><b>codimiracle</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=codimiracle" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/dance2die"><img src="https://avatars1.githubusercontent.com/u/8465237?v=4" width="100px;" alt=""/><br /><sub><b>Sung Kim</b></sub></a><br /><a href="#translation-dance2die" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=dance2die" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/tphbrok"><img src="https://avatars0.githubusercontent.com/u/11331876?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Brok</b></sub></a><br /><a href="#translation-tphbrok" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://robert.theguys.sh"><img src="https://avatars0.githubusercontent.com/u/35585466?v=4" width="100px;" alt=""/><br /><sub><b>robertgrzonka</b></sub></a><br /><a href="#translation-robertgrzonka" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/askareija"><img src="https://avatars3.githubusercontent.com/u/21377617?v=4" width="100px;" alt=""/><br /><sub><b>Megumi Aliya</b></sub></a><br /><a href="#translation-askareija" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://yuhang.live"><img src="https://avatars3.githubusercontent.com/u/13712499?v=4" width="100px;" alt=""/><br /><sub><b>Yule</b></sub></a><br /><a href="#translation-YuleYu" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/s-pace"><img src="https://avatars2.githubusercontent.com/u/32097720?v=4" width="100px;" alt=""/><br /><sub><b>Sylvain Pace</b></sub></a><br /><a href="#plugin-s-pace" title="Plugin/utility libraries">🔌</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.peterhuerlimann.li"><img src="https://avatars2.githubusercontent.com/u/18031711?v=4" width="100px;" alt=""/><br /><sub><b>Peter Hürlimann</b></sub></a><br /><a href="#translation-peterhuerlimann" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/thiagodp"><img src="https://avatars3.githubusercontent.com/u/2997844?v=4" width="100px;" alt=""/><br /><sub><b>Thiago Delgado Pinto</b></sub></a><br /><a href="#translation-thiagodp" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://rogeriopradoj.com"><img src="https://avatars3.githubusercontent.com/u/443391?v=4" width="100px;" alt=""/><br /><sub><b>Rogerio Prado de Jesus</b></sub></a><br /><a href="#translation-rogeriopradoj" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/turbolego/"><img src="https://avatars3.githubusercontent.com/u/2650749?v=4" width="100px;" alt=""/><br /><sub><b>Tobias Andersen</b></sub></a><br /><a href="#translation-turbolego" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/danielbronder"><img src="https://avatars2.githubusercontent.com/u/9819957?v=4" width="100px;" alt=""/><br /><sub><b>danielbronder</b></sub></a><br /><a href="#translation-danielbronder" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://lattes.cnpq.br/4287615973321905"><img src="https://avatars3.githubusercontent.com/u/28638133?v=4" width="100px;" alt=""/><br /><sub><b>João Pedro Raskopf</b></sub></a><br /><a href="#translation-jprask" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://edwinvargas.com.ve"><img src="https://avatars0.githubusercontent.com/u/9091905?v=4" width="100px;" alt=""/><br /><sub><b>Edwin Vargas</b></sub></a><br /><a href="#translation-edwinvrgs" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://kanout.com"><img src="https://avatars0.githubusercontent.com/u/6838659?v=4" width="100px;" alt=""/><br /><sub><b>Faisal KANOUT</b></sub></a><br /><a href="#translation-fkanout" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/johnmurphy01"><img src="https://avatars2.githubusercontent.com/u/2939548?v=4" width="100px;" alt=""/><br /><sub><b>John Murphy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=johnmurphy01" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://whitakerlab.github.io"><img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;" alt=""/><br /><sub><b>Kirstie Whitaker</b></sub></a><br /><a href="#ideas-KirstieJane" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/sirpeas"><img src="https://avatars3.githubusercontent.com/u/4818642?v=4" width="100px;" alt=""/><br /><sub><b>Patryk Peas</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=sirpeas" title="Documentation">📖</a> <a href="#translation-sirpeas" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=sirpeas" title="Code">💻</a></td>
+    <td align="center"><a href="https://almostover.ru"><img src="https://avatars2.githubusercontent.com/u/16944225?v=4" width="100px;" alt=""/><br /><sub><b>Ivan.Nginx</b></sub></a><br /><a href="#translation-ivan-nginx" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://levy.work"><img src="https://avatars3.githubusercontent.com/u/9384365?v=4" width="100px;" alt=""/><br /><sub><b>levy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=levy9527" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://piksel.se"><img src="https://avatars2.githubusercontent.com/u/807383?v=4" width="100px;" alt=""/><br /><sub><b>nils måsén</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=piksel" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://uraway.hatenablog.com/"><img src="https://avatars3.githubusercontent.com/u/15242484?v=4" width="100px;" alt=""/><br /><sub><b>Masato Urai (@uraway_)</b></sub></a><br /><a href="#translation-uraway" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://kylemh.com"><img src="https://avatars1.githubusercontent.com/u/9523719?v=4" width="100px;" alt=""/><br /><sub><b>Kyle Holmberg</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kylemh" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.arcticbit.se"><img src="https://avatars0.githubusercontent.com/u/1596025?v=4" width="100px;" alt=""/><br /><sub><b>Simon Aronsson</b></sub></a><br /><a href="#translation-simskij" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/fennecdjay"><img src="https://avatars0.githubusercontent.com/u/4943921?v=4" width="100px;" alt=""/><br /><sub><b>Jérémie Astor</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fennecdjay" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://rachelcarmena.github.io"><img src="https://avatars0.githubusercontent.com/u/22792183?v=4" width="100px;" alt=""/><br /><sub><b>Rachel M. Carmena</b></sub></a><br /><a href="#translation-rachelcarmena" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://sno2wman.dev/"><img src="https://avatars3.githubusercontent.com/u/15155608?v=4" width="100px;" alt=""/><br /><sub><b>SnO₂WMaN</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=SnO2WMaN" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.andrewmason.me/"><img src="https://avatars1.githubusercontent.com/u/18423853?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Mason</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=andrewmcodes" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://phacks.dev/"><img src="https://avatars1.githubusercontent.com/u/2587348?v=4" width="100px;" alt=""/><br /><sub><b>Nicolas Goutay</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=phacks" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://phor.net"><img src="https://avatars0.githubusercontent.com/u/382183?v=4" width="100px;" alt=""/><br /><sub><b>William Entriken</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fulldecent" title="Code">💻</a></td>
+    <td align="center"><a href="https://linkedin.com/in/kytwb"><img src="https://avatars0.githubusercontent.com/u/412895?v=4" width="100px;" alt=""/><br /><sub><b>Amine</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kytwb" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/smoia"><img src="https://avatars3.githubusercontent.com/u/35300580?v=4" width="100px;" alt=""/><br /><sub><b>Stefano Moia</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=smoia" title="Documentation">📖</a></td>
+  </tr>
+</table>
