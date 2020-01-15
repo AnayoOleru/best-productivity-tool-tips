@@ -418,7 +418,7 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 ----
 
 ## CREDITS
-Thanks goes to these wonderful people, who inspiration was derived from:
+Credits for this project goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a href="https://clockify.me/blog/author/marija-kojic/"><img src="https://secure.gravatar.com/avatar/ef60ce9cce502bc7daec0143188ef543?s=72&d=retro&r=g" width="100px;" alt=""/>
