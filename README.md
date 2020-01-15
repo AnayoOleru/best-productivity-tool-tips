@@ -4,7 +4,7 @@
 
 The ability to focus while coding is incredibly important for developers to help maintain their levels high. To help with that, here are a list of productivity tips, and their tools for programmers to try out.
 
-## Table of Contents for Individual
+## Table of Contents for Solo
 <!-- at least 20 {tomorrow}-->
 <!-- platforms -->
 <!-- add more description -->
@@ -45,11 +45,11 @@ The ability to focus while coding is incredibly important for developers to help
 A web-based **bug tracking system**, used is to track software defects and report them. 
 The Silver Searcher is a code-searching tool, one that stands out due to its speed. Also known as Ag, for short, it’s similar in features to the more famous Ack, but it is about 34x faster than Ack in displaying results. Ag ignores files you indicate, meaning it reports more specific matches, which saves you time even more
 
+[Developer Experiences](/EXPERIENCES.md)
+
 **Technology Platform**
 
 | Windows | [Unix-like](https://en.wikipedia.org/wiki/Unix-like) |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### Control-System
@@ -57,122 +57,131 @@ The Silver Searcher is a code-searching tool, one that stands out due to its spe
 - [Git](https://github.com/)
 A source code management tool, but also a control system meant to track changes in your computer files. The Git feature that stands out the most is its branching model; you can use multiple branches for your ideas, test them, and easily backtrack if they don’t work
 
+
+[Developer Experiences](/EXPERIENCES.md)
+
 **Technology Platform**
 
 | Web | Windows | Mac OS | [Unix-like](https://en.wikipedia.org/wiki/Unix-like)  |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### Computer-display
 - [F.lux](https://justgetflux.com/)
  Is a computer-display control tool, that makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. F.lux is also a cross-platform that adjusts the color temperature of your display, to help your eyes rest, and ensure you can work on your programming tasks in a quality way, longe
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Windows | Mac OS | Linux  | iPhone/iPad  | Android  |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 ### Code-Reading
 - [The Silver Searcher](https://geoff.greer.fm/ag/)
 The Silver Searcher is code searching tool for searching code, help save significant amount of time, due to it's speed.  It started off as a clone of Ack, but their feature sets have since diverged slightly. In typical usage, Ag is 5-10x faster than Ack.
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Windows | Mac OS | Linux  | BSD  |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 ### Code-Editor
 - [Sublime-Text](https://www.sublimetext.com/)
 A good code editor equals high productivity. Sublime is fast in execution, but simple in interface. I offers a distraction free mode. This mode shows your editor full screen, with all UI chrome features hidden, it supports various markup and program languages
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Windows | Mac OS | Linux  |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### IDE
 - [Intellij IDEA](https://www.jetbrains.com/idea/)
 Intellij IDEA is a Java IDE that offers a number of functionalities meant to assist you in coding across various frameworks and languages. With this Java IDE, you can use of use of its keyboard shortcuts to navigate across items, you can build tools, decompile,  run queries, run tests, manage schemes and much more.
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Windows | Mac OS | Linux  |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 ### Keyboard Wizard
 - [AutoHotKey](https://www.autohotkey.com/)
 Is a scripting language tool that helps automate recurring actions you have to undertake in Windows applications, and perform various other actions that aid developer productivity, which comprise a scripting keystrokes, mouse clicks, menu selections.
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Windows |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 - [Alfred](https://www.alfredapp.com/)
 Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
+
+[Developer Experiences](/EXPERIENCES.md)
 
   **Technology Platform**
 
 | MacOS |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 ### Manager
 
 - [Streak-for-Gmail](https://www.streak.com/)
 This tool allows you to track your emails, so you’ll know when and whether the recipients have opened them. It also allows you to write emails now and automatically send them later. You can also use the “snippets” option, which allows you to create shortcuts and templates, for repetitive emails.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Chrome Extension |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 - [Hootsuite](https://hootsuite.com/)
 This tool helps you save time by allowing you to schedule multiple posts to appear on multiple platforms at the same time. With it, you can also add contributors to your social media accounts, share data securely, and analyze your social media outreach.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### Music
 - [MusicForProgramming](http://musicforprogramming.net/)
 A series of mixes intended for listening while working to aid concentration and increase productivity. Its interface mimics a code editor; when going to the page to change the track, you’ll be more likely to keep focus on your coding activities, because you’ll visually link this website with your work.
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Web |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 - [Rainy Mood](https://rainymood.com/)
 Is a noise generator that will provide you with endless sound of rain and thunder, helping you focus, and prevent the office or neighbor chatter, from distracting you. If you work in an open office, but find any kind of music distracting to listen via your headphones, you can try a simple noise generator. Rainy Mood is a straightforward choice, one that offers the soothing sound of falling rain
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Web | Android | IOS |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 - [SoundTrack.net](https://www.soundtrack.net/)
 Game soundtracks are perfect for helping you focus on your work, and you can look this type of soundtracks up on Soundtrack. It offers a large number of game soundtracks. It also offers an extensive list of movie and TV show soundtracks (about 30,000 titles in total), and you can listen to music from newly released trailers and teasers
 
+[Developer Experiences](/EXPERIENCES.md)
+
  **Technology Platform**
 
 | Web |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### Organize
@@ -180,30 +189,32 @@ Game soundtracks are perfect for helping you focus on your work, and you can loo
 - [LastPass](https://www.lastpass.com/)
 if you have accounts on multiple websites, and you keep forgetting and changing your passwords. To save you time, this tool allows you to store all your passwords and login data in a safe place, so you’ll never get locked out of any of your accounts again.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | Browser Extension |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 - [IFTTT–conditional statements creator]()
 IFTTT is a web service that allows users to create chains of simple conditional statements, so-called “Applets”. With the IFTTT component, you can trigger applets through the “Webhooks” service (which was previously the “Maker” channel).
 IFTTT works on the “if-this-then-that” principle, hence the name; you can sync two apps together, so that when one app completes its tasks, the other starts working on its own tasks. For example, you can combine Slack and Trello, so that each time a new card is created in your Trello board, Slack automatically send you a direct message.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web | IOS | Android |
 
-- [Developer Experiences](/EXPERIENCES.md)
 
 - [Google-Alerts](https://www.google.com.ng/alerts)
 Google Alerts is perfect for people who want always to be up-to-date with their most relevant topics. You no longer have to manually search for specific keywords, or worry about forgetting to search for them. You just have to define your desired keywords, and you’ll receive notifications about new content for these topics directly to your email. You can also set the frequency of when you want to receive these alerts, i.e. once a day, or anytime new content appears.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### Procrastination
@@ -215,7 +226,7 @@ Google Alerts is perfect for people who want always to be up-to-date with their 
 
 | Web |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 ### Todo-List
 
@@ -226,7 +237,7 @@ Habitica is an online todo-list or task management that helps you create to-do l
 
 | Web | Android | IOS
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 - [Todo.txt](http://todotxt.org/)
@@ -236,7 +247,7 @@ Todo.txt is a simple open source to-do tool where you can add tasks, view them, 
 
 | Web |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 - [Google-Calendar](https://calendar.google.com)
@@ -246,7 +257,7 @@ Lauded for its design and simplicity, Google Calendar is one of the best tools t
 
 | Web | Android | IOS |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 ### Time-Tracker
@@ -258,7 +269,7 @@ Clockify is primarily a work hours tracker that helps you track time you spend o
 
 | Web |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 - [LeechBlock NG](https://www.proginosko.com/leechblock/)
@@ -268,7 +279,7 @@ LeechBlock lets you block Social Media websites, or any other time-consuming web
 
 | FireFox Browser extension | Chrome browser extension |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 - [RescueTime](https://www.rescuetime.com/)
@@ -278,7 +289,7 @@ RescueTime is more for tracking personal productivity. It’s an automatic time 
 
 | Windows | macOS | Linux | Android | IOS | Chrome Plugin | Firefox Plugin
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 - [WakaTime](https://wakatime.com/)
@@ -288,7 +299,7 @@ WakaTime automatically tracks the time you spend programming. Just focus on a co
 
 | Android Studio | AppCode | Aptana | Atom | Blender | Brackets | Chrome | CLion | Cloud9 | Coda | CodeTasty | Sublime | VsCode | Xcode | PhpStorm
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 
@@ -303,7 +314,7 @@ Google Drive makes team collaboration and consultations regarding a project easi
 
 | Web | IOS | Android |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 - [Google-Calendar](https://calendar.google.com)
@@ -313,7 +324,7 @@ Google Calendar is a simple online calendar that helps you create and maintain a
 
 | Web | Android | IOS |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 - [CodeAnyWhere](https://codeanywhere.com/)
 Developing software in a team, you’ll need a straightforward collaboration program, so you can work on various parts of the code simultaneously. Codeanywhere let’s you do just that, as it is a code editor that allows developers to code together in real-time, and finish more in less time.
@@ -324,7 +335,7 @@ With this code editor, you can work directly in your browser. Just invite your c
 
 | Web | IOS | Android |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 ### Project-Management
 
@@ -336,7 +347,7 @@ Then, you can add people to these tasks and track your progress; you can create 
 
 | Web |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 - [ProofHub](https://www.proofhub.com/)
 ProofHub is a cloud based project management and collaboration tool designed to help you plan, collaborate, organize and deliver projects on time. ProofHub takes the pain out of project management with its simple interface and amazing features.
@@ -345,7 +356,7 @@ ProofHub is a cloud based project management and collaboration tool designed to 
 
 | Web | Android | IOS |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 - [Asana](https://asana.com/)
 It's a team productivity tool, helping everyone stay on-task and organized. Not all that useful for solo workers, but if you’re on a team, Asana will help you keep all projects and tasks in one spot, assigning various users different jobs.
@@ -354,7 +365,7 @@ It's a team productivity tool, helping everyone stay on-task and organized. Not 
 
 | Web |
 
-- [Developer Experiences](/EXPERIENCES.md)
+[Developer Experiences](/EXPERIENCES.md)
 
 
 
@@ -363,11 +374,11 @@ It's a team productivity tool, helping everyone stay on-task and organized. Not 
 - [Freedcamp](https://freedcamp.com/)
 Freedcamp is a central spot for project planning, organization, and action. Share project to-dos, project files, and join in discussions with team members.
 
+[Developer Experiences](/EXPERIENCES.md)
+
   **Technology Platform**
 
 | Web |
-
-- [Developer Experiences](/EXPERIENCES.md)
 
 
 ### Team-Communication
@@ -375,9 +386,10 @@ Freedcamp is a central spot for project planning, organization, and action. Shar
 - [Slack](https://slack.com/)
 Slack replaces email inside your company enable you to easily communicate with all your team members. You can create different channels for different projects and topics, and then invite all the relevant people to join these channels. Then, you can send each other texts, images, videos and other important files. Slack is especially useful for remote teams, because it enables communication as if all team members were in the same place. For even better productivity, this tool allows you to integrate over 1,000 other tools, such as DropBox and Google Drive, within the basic Slack.
 
+[Developer Experiences](/TEAM/EXPERIENCES.md/#slack)
+
   **Technology Platform**
 
 | Web | IOS | Android |
 
-- [Developer Experiences](/TEAM/EXPERIENCES.md/#slack)
 
