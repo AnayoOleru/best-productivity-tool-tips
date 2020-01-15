@@ -435,7 +435,7 @@ Credits for this project goes to these wonderful people:
 ----
 
 ## Contributors :sparkles:
-Thanks goes to these wonderful people:
+Thanks also goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove this section, follow the format and add your name and photo -->
 <table>
