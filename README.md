@@ -68,6 +68,7 @@ A source code management tool, but also a control system meant to track changes 
 
 | Windows | Mac OS | Linux  | iPhone/iPad  | Android  |
 
+----
 
 ### Code-Reading
 - [The Silver Searcher](https://geoff.greer.fm/ag/)
@@ -79,6 +80,7 @@ The Silver Searcher is code searching tool for searching code, help save signifi
 
 | Windows | Mac OS | Linux  | BSD  |
 
+----
 
 ### Code-Editor
 - [Sublime-Text](https://www.sublimetext.com/)
