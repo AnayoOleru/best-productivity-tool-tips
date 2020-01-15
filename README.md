@@ -379,5 +379,5 @@ Slack replaces email inside your company enable you to easily communicate with a
 
 | Web | IOS | Android |
 
-- [Developer Experiences](/EXPERIENCES.md)
+- [Developer Experiences](/TEAM/EXPERIENCES.md/#slack)
 
