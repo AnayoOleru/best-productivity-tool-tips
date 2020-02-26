@@ -10,7 +10,7 @@ The ability to focus while coding is incredibly important for developers to help
 - [Computer-display](#computer-display)
 - [Code-Reading](#code-reading)
 - [Code-Editor](#code-editor)
-- [Design](#design)
+- [Design Tools](#design)
 - [IDE](#ide)
 - [Keyboard-wizard](#keyboard-wizard)
 - [Manager](#manager)
