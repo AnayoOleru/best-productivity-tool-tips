@@ -10,6 +10,7 @@ The ability to focus while coding is incredibly important for developers to help
 - [Computer-display](#computer-display)
 - [Code-Reading](#code-reading)
 - [Code-Editor](#code-editor)
+- [Design](#design)
 - [IDE](#ide)
 - [Keyboard-wizard](#keyboard-wizard)
 - [Manager](#manager)
@@ -18,6 +19,7 @@ The ability to focus while coding is incredibly important for developers to help
 - [Procrastination](#procrastination)
 - [Todo-list](#todolist)
 - [Time-tracker](#time-tracker)
+
 
 
 
@@ -94,6 +96,18 @@ A good code editor equals high productivity. Sublime is fast in execution, but s
  **Technology Platform**
 
 | Windows | Mac OS | Linux  |
+
+----
+
+### Design
+- [Bannersnack](http://bannersnack.com/)
+All-in-one visual production platform.
+
+[Developer Experiences](/SOLO/EXPERIENCES.md)
+
+ **Technology Platform**
+
+| Web |
 
 ----
 
