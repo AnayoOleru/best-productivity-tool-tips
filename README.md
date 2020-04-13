@@ -1,6 +1,7 @@
 # :rocket: Best Productivity Tool-tips :rocket:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![HitCount](http://hits.dwyl.com/AnayoOleru/best-productivity-tool-tips.svg)](http://hits.dwyl.com/AnayoOleru/best-productivity-tool-tips)
 
 The ability to focus while coding is incredibly important for developers to help maintain their levels high. To help with that, here are a list of productivity tips, and their tools for programmers to try out.
 
